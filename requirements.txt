@@ -1,7 +1,5 @@
---upgrade pip
 streamlit==1.24.1
 pandas
 seaborn>=0.13.2
 matplotlib
 scikit-learn
-pillow
